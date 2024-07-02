@@ -1,9 +1,9 @@
 {
-  "name": "Meyawo",
-  "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "An elegant responsive portfolio website",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "Shashank",
   "scripts": {
     "start": "gulp"
   },
